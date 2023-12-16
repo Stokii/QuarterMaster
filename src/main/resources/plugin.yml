@@ -1,0 +1,10 @@
+name: QuarterMaster
+version: '${project.version}'
+main: me.stokey.quartermaster.QuarterMaster
+api-version: 1.18
+authors: [ StokeY_ ]
+description: A plugin for keeping your valuables safe
+commands:
+  quartermaster:
+    description: Manage and use the QuarterMaster plugin
+    aliases: [qm]

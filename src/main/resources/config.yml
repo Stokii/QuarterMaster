@@ -1,0 +1,8 @@
+###MongoDB Connection###
+connection-string: 'mongodb+srv://quartermaster:JZBqyJkAhfpa71fE@quartermaster.8ie4stg.mongodb.net/?retryWrites=true&w=majority'
+lockable-block:
+  - 'CHEST'
+  - 'TRAPPED_CHEST'
+  - 'BLAST_FURNACE'
+  - 'BARREL'
+  - 'ENDER_CHEST'
